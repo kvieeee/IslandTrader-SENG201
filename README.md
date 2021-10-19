@@ -4,7 +4,8 @@ Island Trader Project for SENG201 S1 2021
 
 Project Owners @kvieeee, @bma194
 
-The project can be run by:
+**Run Island Trader**
+
 1) Run the IslandTrader.jar
 
 - Run the GUI by:
