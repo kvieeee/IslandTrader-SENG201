@@ -2,7 +2,9 @@
 
 Island Trader Project for SENG201 S1 2021
 
-Project Owners @kvieeee, @bma194
+- Project brief: Island Trader is a game in which player is a trader who travels by ship to trade goods on multiple islands. Trader will buy goods on one island then travel to another to sell them. Trader will keep traveling between islands and trading goods with the goal to earn as much profit as possible before the game ends.
+
+- Project owners: @kvieeee, @bma194
 
 **Run Island Trader**
 
@@ -17,7 +19,7 @@ Project Owners @kvieeee, @bma194
   java -jar IslandTrader.jar cmd to run the cmd ui
   
 2) Unzipping the zip project.zip to a folder & import into Eclipse
-  (A) Goto File --Import in Eclipse
+  (A) Go to File --Import in Eclipse
   (B) Choose "Projects from Folder or Archive"
   (C) Select the directory corresponding to your unzip'ed project.zip
   (D) CLick finish
